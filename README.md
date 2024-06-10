@@ -2,11 +2,11 @@
 
 NOTE:
 
-I have attached the Power BI file named Pizza Sales.pbix along with the SQL queries that were executed in MSSQL for cross-checking the data present in the Power BI dashboard.
+1.  I have attached the Power BI file named Pizza Sales.pbix along with the SQL queries that were executed in MSSQL for cross-checking the data present in the Power BI dashboard.
 
-Additionally, I have included the images used to create the dashboard, the CSV file, and the Excel file used to fetch the SQL queries and assist in the dashboard creation.
+2.  Additionally, I have included the images used to create the dashboard, the CSV file, and the Excel file used to fetch the SQL queries and assist in the dashboard creation.
 
-In Power BI, I utilized the Power Query Editor for data cleaning and DAX (Data Analysis Expressions) for data processing. I employed various charts and graphs to create a dynamic visualization. By using slicers, we can obtain sales insights data for specific periods.
+3.  In Power BI, I utilized the Power Query Editor for data cleaning and DAX (Data Analysis Expressions) for data processing. I employed various charts and graphs to create a dynamic visualization. By using slicers, we can obtain sales insights data for specific periods.
 
 PROBLEM STATEMENT
 
